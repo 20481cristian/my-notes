@@ -2,5 +2,5 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
+This isDSAFASFFASDAS a blank Quartz installationAFAFAD.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
