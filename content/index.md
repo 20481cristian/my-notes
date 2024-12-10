@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Welcome to myNote
 ---
+## **ARGOMENTI**
 
-This isDSAFASFFASDAS a blank Quartz installationAFAFAD.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+   - ## **TPI**
+		[[Gestione della Memoria]]
+
+
+
+   - ## **SRI**
+		[[Protocollo CSMA-CA]]
+
